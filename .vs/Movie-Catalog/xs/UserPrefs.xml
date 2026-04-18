@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{BD189C0B-B097-421E-81AE-62D855C56857}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Movie-Catalog/Models/MovieDTO.cs">
+    <Files>
+      <File FileName="Movie-Catalog/UnitTest1.cs" Line="179" Column="10" />
+      <File FileName="Movie-Catalog/Models/ApiResponseDTO.cs" Line="1" Column="38" />
+      <File FileName="Movie-Catalog/Models/MovieDTO.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Movie-Catalog" expanded="True">
+            <Node name="Movie-Catalog">
+              <Node name="Models" expanded="True">
+                <Node name="MovieDTO.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Movie-Catalog" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Movie-Catalog PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
